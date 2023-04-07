@@ -1,3 +1,3 @@
 export default function Page() {
-  return <div className="absolute">Modal Chartalone</div>
+  return <div className="absolute">Modal Cart</div>
 }
