@@ -1,5 +1,6 @@
+'use client'
 export default function Page({ params }: any) {
   return <div>
-    ID: {params.author + ' ' + params.id}
+    ID: {params.id}
   </div>
 }
