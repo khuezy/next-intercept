@@ -1,5 +1,5 @@
 export default function Page({ params }: any) {
   return <div>
-    ID: {params.id}
+    ID: {params.author + ' ' + params.id}
   </div>
 }
